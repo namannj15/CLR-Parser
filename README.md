@@ -1,2 +1,2 @@
 # CLR-Parser
-# This is a parser
+### This is the canonical parser
